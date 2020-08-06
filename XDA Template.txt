@@ -1,0 +1,164 @@
+
+[CENTER]
+
+[IMG]https://github.com/FreakyOS/Templates/blob/master/Images/NameHeader.png?raw=true[/IMG]
+
+[IMG]https://github.com/FreakyOS/Templates/blob/master/Images/Logo_200px.png?raw=true[/IMG]
+
+[SIZE="5"][b][color=#1BFE00]Freaky OS [OFFICIAL] ver[X] for $DEVICE NAME [$CODENAME][/color][/b][/SIZE]
+
+
+[img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/About.png?raw=true[/img]
+
+[SIZE="5"][COLOR="#1BFE00"][B] #KeepFreaking [/B][/COLOR][/SIZE]
+
+
+[SIZE="3"][B]FreakyOS[/B] is a project that is designed to be exciting. It is something that was born out of a sea of similar-looking AOSP roms. We offer a unique, yet familiar experience for your phone. We cherry-pick features that we think will actually be useful in your daily lives, and nothing more. Since this is the beginning of something beautiful and exciting, we will continue to add more features in the future releases. We will strive to keep the ROM bloat-free, yet still have enough features that will keep you satisfied.[/SIZE]
+
+
+[img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/Team%20Freaky.png?raw=true[/img]
+[HIDE]
+[SIZE="3"]
+[URL="https://forum.xda-developers.com/member.php?u=8946392"]bunnyy[/URL] [B](Project Owner & Lead Developer)[/B]
+
+[URL="https://forum.xda-developers.com/member.php?u=9418003"]Niteshkumar[/URL] [B](Core Developer)[/B]
+
+[URL="https://forum.xda-developers.com"]Prituvi[/URL] [B](App Developer)[/B]
+
+[URL="https://forum.xda-developers.com"]Aakash Hemadri[/URL] [B](Website Master)[/B]
+
+[URL="https://forum.xda-developers.com"]Jeivardan[/URL] [B](Website Master)[/B]
+
+[URL="https://forum.xda-developers.com"]Swapnil Mhatre[/URL] [B](Logo Designer)[/B]
+
+[URL="https://forum.xda-developers.com/member.php?u=8577997"]Teenu Kumar[/URL][B] (Boot Animation Designer)[/B]
+
+[URL="https://forum.xda-developers.com/member.php?u=10601659"]Amith Acharya[/URL] [B](Moderator)[/B]
+
+[URL="https://forum.xda-developers.com/member.php?u=10219211"]Sambit Kumar[/URL] [B](Lead Coordinator)[/B]
+
+[URL="https://forum.xda-developers.com/member.php?u=9005676"]Shakil[/URL] [B](Coordinator)[/B]
+
+[URL="https://forum.xda-developers.com/member.php?u=9347768"]Harman Singh[/URL] [B](Coordinator)[/B]
+
+[B]Special Thanks to Vikas Rai for XDA art elements! :fingers-crossed:[/B]
+[/SIZE]
+[/HIDE]
+
+[SIZE="4"][b]Website: [/b][url="https://FreakyOS.me"]Here[/url][/SIZE]
+
+[SIZE="4"][I]Freak us on Twitter! [URL="https://twitter.com/Freaky_OS"]@Freaky_OS[/URL][/I][/SIZE]
+[SIZE="4"][I]Follow us on Insta! [URL="https://instagram.com/freaky_os"]@Freaky_OS[/URL][/I][/SIZE]
+
+[SIZE="4"] Made with ❤ In [B]India[/B][/SIZE]
+
+[img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/Features.png?raw=true[/img]
+
+[HIDE]
+
+[SIZE="4"]We have a wide [B]variety[/B] of in house [B]features[/B], Be sure to check [B]dem[/B] out :cool:[/SIZE]
+
+[SIZE="4"][U][COLOR="green"][B]HW buttons[/B][/COLOR][/U][/SIZE]
+[SIZE="3"]Volume rockers
+Accidental touch[/SIZE]
+
+[SIZE="4"][U][COLOR="green"][B]Statusbar[/B][/COLOR][/U][/SIZE]
+[SIZE="3"]Optional 4G instead of LTE icon
+Optional Data disabled icon
+Optional Roaming icon
+Network Traffic Monitor[/SIZE]
+
+[SIZE="4"][U][COLOR="green"][B]Notifications[/B][/COLOR][/U][/SIZE]
+[SIZE="3"]R style header
+Hide smart reply
+Notification counters
+Notification vibration
+Ambient light
+Battery charging light
+In-call vibration[/SIZE]
+
+[SIZE="4"][U][COLOR="green"][B]Quick Settings[/B][/COLOR][/U][/SIZE]
+[SIZE="3"]OOS dismiss all button
+Blur behind QS
+QS tile tint
+Header image[/SIZE]
+
+[SIZE="4"][U][COLOR="green"][B]Power Menu[/B][/COLOR][/U][/SIZE]
+[SIZE="3"]Advanced reboot
+Several optional power menu options[/SIZE]
+
+[SIZE="4"][U][COLOR="green"][B]Gestures[/B][/COLOR][/U][/SIZE]
+[SIZE="3"]Three finger swipe
+Haptic feedback on back gesture
+Hide nav bar pill
+Adaptive Playback[/SIZE]
+
+[SIZE="4"][U][COLOR="green"][B]Lockscreen[/B][/COLOR][/U][/SIZE]
+[SIZE="3"]Media art work
+Pocket detection
+Fingerprint unlock on LS
+Charging info[/SIZE]
+
+[SIZE="4"][U][COLOR="green"][B]Miscellaneous[/B][/COLOR][/U][/SIZE]
+[SIZE="3"]Customize rounded corners
+Customize status bar padding
+Signature spoofing[/SIZE]
+
+[SIZE="4"][U][COLOR="green"][B]Themes[/B][/COLOR][/U][/SIZE]
+[SIZE="3"]69+ Accent colours
+69+ Icon styles
+69+ Clock styles
+Minimal fonts with system wide response[/SIZE]
+
+[SIZE="3"][B]Comes with minimal google apps for better user experience[/SIZE][/B] :p
+
+[/HIDE]
+
+[URL="https://raw.githubusercontent.com/FreakyOS/ota_config/still_alive/$CODENAME/$CODENAME"][img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/Changelog.png?raw=true[/img][/URL]
+
+[img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/Bugs.png?raw=true[/img]
+
+[SIZE="4"]You tell me ;)[/SIZE]
+
+[img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/Installation%20Method.png?raw=true[/img]
+
+[SIZE="5"][color="green"][B]Clean Flash :[/B][/SIZE][/COLOR]
+[SIZE="4"]Download the latest build and GApps
+Reboot to recovery 
+Take Backup (Not Necessary, Still its Recommended in case)
+Wipe System, Data, Vendor, Cache & Dalvik
+Flash the ROM + Gapps + Magisk (Optional if want Root)
+Reboot & WhySoSerious? [/SIZE]
+
+[SIZE="5"][color="green"][B]Dirty Flash :[/B][/SIZE][/COLOR]
+[SIZE="4"]Download the latest build 
+Reboot to recovery
+Wipe Cache & Dalvik
+Flash ROM zip file
+Reboot & KeepFreaking[/SIZE]
+
+[B]Note:[/B] You'll have to flash Gapps and Magisk every time you dirty flash/update via OTA.
+
+[img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/Credits.png?raw=true[/img]
+
+[SIZE="4"][url=https://android.googlesource.com/]Android Open-Source Project[/url]
+[url=https://github.com/LineageOS]LineageOS[/url]
+[url=https://github.com/PixelExperience]Pixel Experience[/url]
+And all the other open-source projects we picked from :angel: [/SIZE]
+
+[URL="https://sourceforge.net/projects/freakyos/files/$CODENAME/"][img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/Download.png?raw=true[/img][/URL]
+
+[SIZE="4"]If you [B]appericate[/B] our work [URL="https://PayPal.me/bunnyy95"]buy us a coffee [/URL]:cowboy:[/SIZE]
+
+[SIZE="4"]Also, be sure to [B]checkout[/B] our [URL="https://t.me/FreakyOS"]Telegram group [/URL]:D[/SIZE]
+[/CENTER]
+
+
+[SIZE="3"][b]Build Author/Maintainer[/b] - $YOUR NAME
+[b]Device Name[/b] - $DEVICE NAME
+[b]Device Codename[/b] - $CODENAME
+[b]Kernel Source[/b] - [url=https://github.com/FreakyOS-Devices/*$KERNEL SOURCE]Here[/url]
+[b]ROM Status[/b] - Official
+[b]Security Patch[/b] - 05th Aug 2020
+[b]Current ROM Version[/b] -v[X]
+[b]Stable ROM Version[/b] - v[X][/SIZE]
