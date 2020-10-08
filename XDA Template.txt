@@ -5,15 +5,15 @@
 
 [IMG]https://github.com/FreakyOS/Templates/blob/master/Images/Logo_200px.png?raw=true[/IMG]
 
-[SIZE="5"][b][color=#1BFE00]Freaky OS [OFFICIAL] ver[X] for $DEVICE NAME [$CODENAME][/color][/b][/SIZE]
+
+[SIZE="5"][b][color=#1BFE00]Freaky OS [OFFICIAL] ver[X.I] for $DEVICE NAME [$CODENAME][/color][/b][/SIZE]
 
 
 [img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/About.png?raw=true[/img]
 
 [SIZE="5"][COLOR="#1BFE00"][B] #KeepFreaking [/B][/COLOR][/SIZE]
 
-
-[SIZE="3"][B]FreakyOS[/B] is a project that is designed to be exciting. It is something that was born out of a sea of similar-looking AOSP roms. We offer a unique, yet familiar experience for your phone. We cherry-pick features that we think will actually be useful in your daily lives, and nothing more. Since this is the beginning of something beautiful and exciting, we will continue to add more features in the future releases. We will strive to keep the ROM bloat-free, yet still have enough features that will keep you satisfied.[/SIZE]
+[SIZE="3"][B]FreakyOS[/B] is an Android based Custom-ROM designed to satisfy the user experience with AOSP features and some extra customizations brought to you by the freaks.[/SIZE]
 
 
 [img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/Team%20Freaky.png?raw=true[/img]
@@ -48,15 +48,17 @@
 [SIZE="4"][b]Website: [/b][url="https://FreakyOS.me"]Here[/url][/SIZE]
 
 [SIZE="4"][I]Freak us on Twitter! [URL="https://twitter.com/Freaky_OS"]@Freaky_OS[/URL][/I][/SIZE]
+
 [SIZE="4"][I]Follow us on Insta! [URL="https://instagram.com/freaky_os"]@Freaky_OS[/URL][/I][/SIZE]
 
 [SIZE="4"] Made with ❤ In [B]India[/B][/SIZE]
+
 
 [img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/Features.png?raw=true[/img]
 
 [HIDE]
 
-[SIZE="4"]We have a wide [B]variety[/B] of in house [B]features[/B], Be sure to check [B]dem[/B] out :cool:[/SIZE]
+[SIZE="4"]These are some of the featurs which makes the ROM look :cool:[/SIZE]
 
 [SIZE="4"][U][COLOR="green"][B]HW buttons[/B][/COLOR][/U][/SIZE]
 [SIZE="3"]Volume rockers
@@ -114,30 +116,38 @@ Minimal fonts with system wide response[/SIZE]
 
 [/HIDE]
 
+
 [URL="https://raw.githubusercontent.com/FreakyOS/ota_config/still_alive/$CODENAME/$CODENAME"][img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/Changelog.png?raw=true[/img][/URL]
+
 
 [img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/Bugs.png?raw=true[/img]
 
 [SIZE="4"]You tell me ;)[/SIZE]
 
+
+[URL="https://sourceforge.net/projects/freakyos/files/$CODENAME/"][img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/Download.png?raw=true[/img][/URL]
+
+
 [img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/Installation%20Method.png?raw=true[/img]
 
 [SIZE="5"][color="green"][B]Clean Flash :[/B][/SIZE][/COLOR]
-[SIZE="4"]Download the latest build and GApps
+[SIZE="4"]Download the latest build
 Reboot to recovery 
 Take Backup (Not Necessary, Still its Recommended in case)
 Wipe System, Data, Vendor, Cache & Dalvik
-Flash the ROM + Gapps + Magisk (Optional if want Root)
-Reboot & WhySoSerious? [/SIZE]
+Flash the ROM
+Reboot [/SIZE]
 
 [SIZE="5"][color="green"][B]Dirty Flash :[/B][/SIZE][/COLOR]
 [SIZE="4"]Download the latest build 
 Reboot to recovery
 Wipe Cache & Dalvik
 Flash ROM zip file
-Reboot & KeepFreaking[/SIZE]
+Reboot 
+& KeepFreaking[/SIZE]
 
-[B]Note:[/B] You'll have to flash Gapps and Magisk every time you dirty flash/update via OTA.
+[B]Note:[/B] OTA updates can be dirty flashed if you are already on FreakyOS on your device.
+
 
 [img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/Credits.png?raw=true[/img]
 
@@ -146,7 +156,6 @@ Reboot & KeepFreaking[/SIZE]
 [url=https://github.com/PixelExperience]Pixel Experience[/url]
 And all the other open-source projects we picked from :angel: [/SIZE]
 
-[URL="https://sourceforge.net/projects/freakyos/files/$CODENAME/"][img]https://github.com/FreakyOS/Templates/blob/master/Images/Text%20Font%20Images/Download.png?raw=true[/img][/URL]
 
 [SIZE="4"]If you [B]appericate[/B] our work [URL="https://PayPal.me/bunnyy95"]buy us a coffee [/URL]:cowboy:[/SIZE]
 
@@ -159,6 +168,6 @@ And all the other open-source projects we picked from :angel: [/SIZE]
 [b]Device Codename[/b] - $CODENAME
 [b]Kernel Source[/b] - [url=https://github.com/FreakyOS-Devices/*$KERNEL SOURCE]Here[/url]
 [b]ROM Status[/b] - Official
-[b]Security Patch[/b] - 05th Aug 2020
-[b]Current ROM Version[/b] -v[X]
-[b]Stable ROM Version[/b] - v[X][/SIZE]
+[b]Security Patch[/b] - 5th September 2020
+[b]Current ROM Version[/b] -v[X.I]
+[/SIZE]
